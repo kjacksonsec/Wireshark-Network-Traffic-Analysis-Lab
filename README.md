@@ -148,7 +148,9 @@ Wireshark is commonly used by SOC Analysts to investigate suspicious traffic, va
 
 ### DNS Filter Results
 
-(Add Screenshot Here)
+
+
+![DNS Filter Results](Screenshot%20(26).png)
 
 ### ICMP Filter Results
 
