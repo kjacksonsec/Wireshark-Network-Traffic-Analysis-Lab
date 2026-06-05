@@ -122,9 +122,7 @@ Wireshark is commonly used by SOC Analysts to investigate suspicious traffic, va
 
 ### Wireshark Live Capture
 
-
-
-![Wireshark Live Capture](Screenshot%20(1).png)
+![Wireshark Live Capture](Screenshot%20(22).png)
 
 ### Ping Command Activity
 
