@@ -138,7 +138,9 @@ Wireshark is commonly used by SOC Analysts to investigate suspicious traffic, va
 
 ### ARP Filter Results
 
-(Add Screenshot Here)
+
+
+![ARP Filter Results](Screenshot%20(31).png)
 
 ### TCP Filter Results
 
